@@ -2,7 +2,9 @@
 Console.WriteLine("Hello, World!");
 
 
-int[] Gojo = { 1, 2, 3, 4, 5, 6 };
+//int[] Gojo = { 1, 2, 3, 4, 3, 6 };
+
+int[] Gojo = { 1, 2, 3, 4, 3, 6 };
 
 int target = 3;
 
