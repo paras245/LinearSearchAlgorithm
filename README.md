@@ -6,4 +6,4 @@ This is a linear search algorithm it is used to search  in a linear mannner for 
 
 The target provided number is matched to each element of list or array and if found then the search terminates 
 
-It terminates for example if my array has 3 reapeated twicethen the largest intex is considered first
+It terminates for example if my array has 3 reapeated twice then the largest index is considered first
